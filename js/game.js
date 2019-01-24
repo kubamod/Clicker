@@ -214,7 +214,3 @@ function render() {
      game.debug.text("pre-alpha 0.2", 1100,40);
      
 }
-
-// I ma tu kurwa być chuj w dupe policji kurwa..
-// Mój kod kurwa i będzie tu co chcę
-// JD KURWA CHUJ 
